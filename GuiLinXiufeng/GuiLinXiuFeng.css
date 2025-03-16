@@ -1,0 +1,236 @@
+ .u-section-1 {
+  background-image: url("images/65b4b3d8-ccf2-7f9f-eb98-250cc70cc541.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 353px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 449px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 391px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 580px;
+}
+
+.u-section-2 .u-accordion-1 {
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+
+.u-section-2 .u-accordion-item-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-accordion-link-1 {
+  font-family: d89632c3-4b79-63c4-98e6-964845d1b821;
+  font-size: 1.875rem;
+  font-weight: 700;
+  padding: 20px;
+}
+
+.u-section-2 .u-icon-1 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
+  padding: 10px;
+}
+
+.u-section-2 .u-accordion-pane-1 {
+  min-height: 150px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 20px;
+}
+
+.u-section-2 .u-accordion-item-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-accordion-link-2 {
+  font-family: d89632c3-4b79-63c4-98e6-964845d1b821;
+  font-size: 1.875rem;
+  font-weight: 700;
+  padding: 20px;
+}
+
+.u-section-2 .u-icon-2 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
+  padding: 10px;
+}
+
+.u-section-2 .u-accordion-pane-2 {
+  min-height: 150px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 20px;
+}
+
+.u-section-2 .u-accordion-item-3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-accordion-link-3 {
+  font-family: d89632c3-4b79-63c4-98e6-964845d1b821;
+  font-size: 1.875rem;
+  font-weight: 700;
+  padding: 20px;
+}
+
+.u-section-2 .u-icon-3 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
+  padding: 10px;
+}
+
+.u-section-2 .u-accordion-pane-3 {
+  min-height: 150px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 20px;
+}
+
+.u-section-2 .u-text-3 {
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+.u-section-2 .u-accordion-item-4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-accordion-link-4 {
+  font-family: d89632c3-4b79-63c4-98e6-964845d1b821;
+  font-size: 1.875rem;
+  font-weight: 700;
+  padding: 20px;
+}
+
+.u-section-2 .u-icon-4 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
+  padding: 10px;
+}
+
+.u-section-2 .u-accordion-pane-4 {
+  min-height: 150px;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 20px;
+}
+
+.u-section-2 .u-accordion-item-5 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-accordion-link-5 {
+  font-family: d89632c3-4b79-63c4-98e6-964845d1b821;
+  font-size: 1.875rem;
+  font-weight: 700;
+  padding: 20px;
+}
+
+.u-section-2 .u-icon-5 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
+  padding: 10px;
+}
+
+.u-section-2 .u-accordion-pane-5 {
+  min-height: 150px;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 20px;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-accordion-link-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-accordion-link-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-accordion-link-3 {
+    font-size: 1rem;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-accordion-link-4 {
+    font-size: 1rem;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-accordion-link-5 {
+    font-size: 1rem;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+} .u-section-3 {
+  min-height: 659px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 391px;
+  left: 0;
+  right: auto;
+} .u-section-4 {
+  min-height: 679px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 382px;
+  left: auto;
+  right: 0;
+}@font-face {
+  font-family: 'd89632c3-4b79-63c4-98e6-964845d1b821';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/d89632c3-4b79-63c4-98e6-964845d1b821.ttf);
+}
